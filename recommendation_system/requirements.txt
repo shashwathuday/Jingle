@@ -1,0 +1,5 @@
+Flask==3.0.0
+mysql-connector-python==8.2.0
+scipy==1.11.4
+implicit==0.7.2
+pandas==2.1.4
