@@ -1,4 +1,3 @@
-# Jingle
 # Jingle Music App
 
 Jingle is a dynamic music streaming app that integrates a modern MVC architecture with personalized recommendations and a user-friendly interface. Built with JSP for the frontend, Java servlets as the controller, and a MySQL database for the backend, Jingle offers an engaging and tailored music experience for its users.
